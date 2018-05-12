@@ -1,0 +1,33 @@
+_repo: Wilderness-of-Spring_39907
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pangborn, Edgar
+    birthdate: 1909
+    deathdate: 1976
+    gutenberg_agent_id: '32078'
+    url: http://www.gutenberg.org/2009/agents/32078
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Pangborn
+description: The time is the early eighteenth century, and two young brothers are
+  the sole survivors of a brutal attack perpetrated on their New England village by
+  the French. They eventually are reunited with some members of their extended family,
+  but will the two boys be able to make their way in the world without the loving
+  guidance of their parents? This detailed historical novel is a gripping, emotionally
+  engaging read.
+gutenberg_issued: '2012-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcsh 'Historical fiction'
+title: Wilderness of Spring
+url: http://www.gutenberg.org/ebooks/39907
